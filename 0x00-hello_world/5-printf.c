@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
 * main - print the phase "with proper grammer, but the outcome is a piece of art
-* Return: 0 if excited prperly,n-zero otherwise
+* Return: 0 if excited prperly, non-zero otherwise
 */
 int main(void)
 {
