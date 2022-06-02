@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - prints the phrase "with proper grammar, but the outcome is a piece of art
+* main - prints "the size of various types on the computer
 * Return: 0 if exited properly, non-zero otherwise
 */
 int main(void)
