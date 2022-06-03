@@ -13,5 +13,4 @@ for (c = 'A'; c <= 'Z'; ++c)
 printf("%c", c);
 putchar('\n');
 return (0);
-
 }
