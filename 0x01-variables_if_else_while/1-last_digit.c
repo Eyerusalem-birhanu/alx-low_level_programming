@@ -1,11 +1,10 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 /**
-* main  print the last digit of the number n and compare it with other digits
-* it execute, and prints it
-* Return: Always 0 (Success)
-*/
+ * main - print the last digit of the number stored in the variable n
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int n;
