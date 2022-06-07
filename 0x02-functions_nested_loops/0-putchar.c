@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * main - prints _putchar
+ * _putchar - "_putchar\n"
+ * @c: i
  * Return: 0
  */
+
 int main(void)
 {
 	char word[] = "_putchar";
