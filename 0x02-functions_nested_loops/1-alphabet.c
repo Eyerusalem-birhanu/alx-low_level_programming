@@ -2,7 +2,7 @@
 
 /**
  *main - entry point
- *Description: print_alphabet 
+ * Description: print_alphabet
  * Return: void
  */
 void print_alphabet(void)
@@ -18,3 +18,4 @@ void print_alphabet(void)
 	}
 			_putchar('\n');
 }
+
