@@ -2,36 +2,21 @@
 
 /**
  *
- *  * print_alphabet - print aphabet in lowercase
+ * main - entry point
+ * Description: print_alphabet 
  *
- *   * Return:0
+ * Return: void
  *
- *    */
-
-
-
+ */
 void print_alphabet(void)
 
 {
+	char c = 'a';
+	while (c <= 'z')
+	{
+			_putchar(c);
 
-		char c = 'a';
-
-
-
-			while (c <= 'z')
-
-					{
-
-								_putchar(c);
-
-										c++;
-
-
-
-											}
-
-				_putchar('\n');
-
-
-
+			c++;
+	}
+			_putchar('\n');
 }
