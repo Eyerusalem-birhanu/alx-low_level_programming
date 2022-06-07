@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * main - main block
- * Return: 0
+ * main - entry point
+ * description: putchar
+ * Return: Always 0 (sucess)
  */
 
 int main(void)
@@ -9,8 +10,8 @@ int main(void)
 	char word[] = "_putchar";
 	int i;
 
-	for (i = 0; i < 8; i++)
-		_putchar(word[i]);
+	for (i = 0; i < 8; ++i)
+		_putchar(str[i]);
 	_putchar('\n');
 
 	return (0);
