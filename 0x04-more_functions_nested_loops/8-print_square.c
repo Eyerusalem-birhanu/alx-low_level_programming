@@ -3,7 +3,7 @@
 /**
  * print_square - check for a digit
  * @n : number of squar to be printed
- * Return: Void.
+ * Return: Void
  */
 
 void print_square(int n)
