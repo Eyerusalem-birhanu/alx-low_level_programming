@@ -2,7 +2,7 @@
 
 /**
  * print_square - check for a digit
- * @n : number of squar to be printed
+ * @n : number to be printed
  * Return: Void
  */
 
