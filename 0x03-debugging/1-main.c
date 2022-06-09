@@ -12,10 +12,7 @@ int main(void)
 	printf("Infinite loop incoming :(\n");
 
 	i = 0;
-<<<<<<< HEAD
-=======
 
->>>>>>> ac73a72443633432e219df29928797607bd8b28f
 	/**
 	*while (i < 10)
 	*{
@@ -24,8 +21,4 @@ int main(void)
 	*/
 	printf("Infinite loop avoided! \\o/\n");
 	return (0);
-<<<<<<< HEAD
 }
-=======
-
->>>>>>> ac73a72443633432e219df29928797607bd8b28f
