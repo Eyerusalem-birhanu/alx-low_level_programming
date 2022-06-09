@@ -2,7 +2,7 @@
 
 /**
  * print_square - check for a digit
- * @n : number of _ to be printed
+ * @n : number to be printed
  * Return:void
  */
 
