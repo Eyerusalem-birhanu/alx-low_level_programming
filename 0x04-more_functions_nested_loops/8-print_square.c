@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_square - check for a digit
- * @n : number to be printed
- * Return:void
+ * print_square - Print square line dependent on the integer n.
+ * @n : The number of lines to be printed
+ * Return: Void.
  */
 
 void print_square(int n)
