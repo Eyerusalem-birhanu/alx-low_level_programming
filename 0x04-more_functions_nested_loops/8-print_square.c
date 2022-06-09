@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - check for a digit
+ * print_square - Print square line dependent on the integer n.
  * @n : The number of lines using '#' characters to use per row and column
  * Return: Void
  */
