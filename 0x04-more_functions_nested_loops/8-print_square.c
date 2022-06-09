@@ -2,12 +2,13 @@
 
 /**
  * print_square - check for a digit
- * @n : number of _ to be printed
+ * @n : number of n to be printed
  * Return: Void
  */
 
 void print_square(int n)
 {
+
 	int i = 0, ii;
 	while (i < n && n > 0)
 	{
