@@ -2,11 +2,12 @@
 
 /**
  * print_square - check for a digit
- * @n : number of squar to be printed
+ * @n : If size is 0 or less, the function should print only a new line
  * Return: Void.
  */
 
 void print_square(int n)
+
 {
 	int i = 0, ii;
 	while (i < n && n > 0)
