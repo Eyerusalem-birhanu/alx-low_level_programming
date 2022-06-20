@@ -22,8 +22,11 @@ void print_number(int n)
 
   _putchar((n1 % 10) + '0');
 }
+<<<<<<< HEAD
 
 int _putchar(char c);
 {
   return 0;
 }
+=======
+>>>>>>> b26a1c89711310bad3e3bed4eee8b1795f1e1f8d
